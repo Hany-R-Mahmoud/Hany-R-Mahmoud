@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working a frontend-developer<br>🌱 I’m currently learning  next.js, react, react-native<br>
+🔭 I’m currently working as a frontend-developer<br>🌱 I’m currently learning  next.js, react, react-native<br>
 
 
 ## 🌐 Socials:
