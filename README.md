@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1020,18:13223f,38:1f4f8c,62:0ea5e9,82:22d3ee,100:f97316&text=Hany%20Mahmoud&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Creative-tech%20frontend%20engineer%20crafting%20AI-native%20product%20worlds&descAlignY=60" alt="Hany Mahmoud banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,24:13223f,52:1f4f8c,78:22d3ee,100:f97316&text=Hany%20Mahmoud&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Creative-tech%20frontend%20engineer%20building%20AI-native%20products&descAlignY=60" alt="Hany Mahmoud banner" />
 </div>
 
 <br />
 
 <div align="center">
 
-# Cinematic interfaces for AI-native products
+# AI-native product interfaces with atmosphere, structure, and clarity
 
-I build frontend experiences that make complex systems feel vivid, usable, and alive.
+I build frontend experiences for ideas that sit between AI, systems, product design, and interaction.
 
-From agent ecosystems to AI operations dashboards to mobile-first product surfaces, I care about the moment where engineering, product language, and visual identity finally click into one experience.
+What matters most to me is not only making something work, but making it feel coherent, alive, and easy to trust.
 
 <br />
 
@@ -23,66 +23,25 @@ From agent ecosystems to AI operations dashboards to mobile-first product surfac
 <br />
 <br />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=Building+systems%2C+not+just+screens;Designing+AI+product+surfaces+with+story+and+structure;Shipping+web+and+mobile+experiences+with+shared+identity;Turning+complexity+into+clarity" alt="Typing intro" />
-</div>
-
-<br />
-<br />
-
-## Now
+## Selected Work
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="58%" valign="top">
 
-### Building
-- product ecosystems instead of isolated demos
-- AI-adjacent interfaces with stronger operational clarity
-- shared visual systems across web and mobile surfaces
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/skills-agency/main/public/portraits/normalized/agent-pilot.png" alt="Skills Agency visual" width="100%" />
 
 </td>
-<td width="33%" valign="top">
-
-### Learning Hard
-- agent workflows and skill-driven product ideas
-- AI operations thinking and monitoring UX
-- deeper TypeScript-first architecture decisions
-
-</td>
-<td width="33%" valign="top">
-
-### Chasing
-- more cinematic UI direction
-- clearer product narratives
-- frontend systems that feel both technical and memorable
-
-</td>
-</tr>
-</table>
-
-<br />
-<br />
-
-## Spotlight Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
 ### Skills Agency
-A creative-tech Next.js direction built around skills, agents, and a more system-driven interface language.
+A creative-tech Next.js direction built around skills, agents, and stronger product language.
 
-This is the project I want in the front seat because it points closest to where I am heading next: productized AI concepts, stronger narrative design, and interfaces with more personality.
+This is the project I want at the front because it feels closest to the kind of work I want to keep doing: more authored, more system-driven, and more visually distinct.
 
 [Explore the repo](https://github.com/Hany-R-Mahmoud/skills-agency)
 
 </td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hany-R-Mahmoud&repo=skills-agency&theme=tokyonight&hide_border=true" alt="Skills Agency repo card" />
-
-</td>
 </tr>
 </table>
 
@@ -90,24 +49,22 @@ This is the project I want in the front seat because it points closest to where 
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hany-R-Mahmoud&repo=token-tracker-dashboard&theme=tokyonight&hide_border=true" alt="Token Tracker Dashboard repo card" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hany-R-Mahmoud&repo=token-tracker-mobile&theme=tokyonight&hide_border=true" alt="Token Tracker Mobile repo card" />
-
-</td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
 ### Token Tracker
-A two-surface AI operations product family built across web and mobile.
+A two-surface AI operations product family across web and mobile.
 
-It tracks token usage, provider health, session quality, and team activity, but more importantly it represents a shift in how I build: cleaner repo boundaries, shared brand language, and a stronger product-system mindset.
+It monitors token usage, provider health, session quality, and team activity, but the deeper value for me was building it as a product system: separate repos, shared identity, and clearer operational UX.
 
 [Dashboard](https://github.com/Hany-R-Mahmoud/token-tracker-dashboard)  
 [Mobile](https://github.com/Hany-R-Mahmoud/token-tracker-mobile)
 
 </td>
+<td width="58%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/token-tracker-dashboard/main/public/opengraph.jpg" alt="Token Tracker visual" width="100%" />
+
+</td>
 </tr>
 </table>
 
@@ -115,19 +72,19 @@ It tracks token usage, provider health, session quality, and team activity, but 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### The Agency: Command Ops
-A mobile-first strategy game where I pushed more on systems design, progression, worldbuilding, and interactive structure.
-
-It matters to me because it proves I do not only like polished UI. I like building worlds, rules, and experiences people can feel.
-
-[Explore the repo](https://github.com/Hany-R-Mahmoud/the-agency-mobile-game)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hany-R-Mahmoud&repo=the-agency-mobile-game&theme=tokyonight&hide_border=true" alt="The Agency Command Ops repo card" width="100%" />
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hany-R-Mahmoud&repo=the-agency-mobile-game&theme=tokyonight&hide_border=true" alt="The Agency Command Ops repo card" />
+### The Agency: Command Ops
+A mobile-first strategy game where I pushed more on systems design, progression loops, worldbuilding, and interactive structure.
+
+It reminds me that I do not only enjoy polished UI. I enjoy building worlds, rules, and experiences with personality.
+
+[Explore the repo](https://github.com/Hany-R-Mahmoud/the-agency-mobile-game)
 
 </td>
 </tr>
@@ -138,21 +95,20 @@ It matters to me because it proves I do not only like polished UI. I like buildi
 
 ## What has changed in my work lately
 
-My recent growth is heavily shaped by AI and everything around it, but not only from a model or tooling angle.
-I have been getting much more interested in the product layer around AI: how to present signals, how to structure workflows, how to make agent-based ideas understandable, and how to make technical systems feel clear enough to trust.
+I have been moving much harder toward AI and everything around it, especially the product layer that sits between raw capability and a usable experience.
 
-That shift pulled me deeper into:
+That has pushed me deeper into:
 
-- AI operations dashboards and mobile monitoring flows
+- AI operations dashboards and monitoring flows
 - agent-oriented product thinking and skill ecosystems
-- stronger repo architecture and multi-surface product design
-- visual consistency as a product decision, not just styling
+- stronger architecture across multi-surface products
+- visual identity as part of product strategy
 - TypeScript-first React systems across web and mobile
 
 <br />
 <br />
 
-## Tech Palette
+## Current Palette
 
 <div align="center">
 
@@ -180,12 +136,6 @@ That shift pulled me deeper into:
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hany-R-Mahmoud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=f97316&text_color=e5f3ff&bg_color=0f172a" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hany-R-Mahmoud&theme=tokyonight&hide_border=true&layout=compact&title_color=22d3ee&text_color=e5f3ff&bg_color=0f172a" alt="Top languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hany-R-Mahmoud&theme=tokyonight&hide_border=true&ring=22d3ee&fire=f97316&currStreakLabel=e5f3ff" alt="GitHub streak" />
 </div>
 
 <br />
