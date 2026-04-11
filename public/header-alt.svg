@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-labelledby="title desc">
+  <title id="title">Hany Mahmoud alternate header</title>
+  <desc id="desc">Builder of AI-native products, solo developer plus agent teams.</desc>
+  <rect width="900" height="200" fill="#0f172a"/>
+  <text x="450" y="98" text-anchor="middle" fill="#22d3ee" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="600">Hany Mahmoud</text>
+  <text x="450" y="130" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="16">Builder of AI-native products · Solo dev + agent teams</text>
+  <line x1="0" y1="198.5" x2="900" y2="198.5" stroke="#f97316" stroke-opacity="0.3" stroke-width="1.5"/>
+</svg>
