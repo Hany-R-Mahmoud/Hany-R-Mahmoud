@@ -23,16 +23,16 @@ My work sits where raw AI capability becomes a product people can understand, tr
 <table>
 <tr>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/etamini.svg" width="100%" alt="Etamini product poster" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/previews/etamini.png" width="100%" alt="Etamini website preview" />
 </td>
 <td width="45%" valign="top">
 
 ### 01. Etamini
 
-A trust-focused AI product with a calmer product surface. The design challenge is making intelligent assistance feel clear, reassuring, and action-oriented without overwhelming the user.
+An Arabic educational app for mothers and families. It gives sourced, calm guidance around newborn care, postpartum recovery, breastfeeding, vaccinations, child milestones, common myths, and signs that need medical attention.
 
-**Role:** product architecture, frontend experience, AI-assisted delivery
-**Surface:** production web app
+**Role:** Arabic health-content UX, RTL interface, product implementation<br/>
+**Surface:** production Arabic web app
 
 [![Live Site](https://img.shields.io/badge/Live_Site-34d399?style=for-the-badge&logo=vercel&logoColor=08111f)](https://etamini.vercel.app)
 [![Private Repo](https://img.shields.io/badge/Private_Repo-Live_only-0f172a?style=for-the-badge&logo=github&logoColor=9fb4c9)](https://etamini.vercel.app)
@@ -47,17 +47,17 @@ A trust-focused AI product with a calmer product surface. The design challenge i
 
 ### 02. Yahya
 
-A cancer navigator app built for high-stakes clarity. It is designed around guidance, reduced confusion, and a product tone that treats healthcare navigation with care and precision.
+An Arabic cancer awareness and medical-navigation platform for Egypt. Yahya helps people understand symptoms, screening paths, trusted information, local resources, and the next practical step in the care journey.
 
-**Role:** mobile product thinking, care journey UX, frontend implementation
-**Surface:** production web app
+**Role:** health-navigation UX, Arabic product language, frontend implementation<br/>
+**Surface:** production Arabic web app
 
 [![Live Site](https://img.shields.io/badge/Live_Site-fb7185?style=for-the-badge&logo=vercel&logoColor=120a1f)](https://yah-ya.vercel.app)
 [![Private Repo](https://img.shields.io/badge/Private_Repo-Live_only-0f172a?style=for-the-badge&logo=github&logoColor=9fb4c9)](https://yah-ya.vercel.app)
 
 </td>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/yahya.svg" width="100%" alt="Yahya cancer navigator app poster" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/previews/yahya.png" width="100%" alt="Yahya website preview" />
 </td>
 </tr>
 </table>
@@ -65,7 +65,7 @@ A cancer navigator app built for high-stakes clarity. It is designed around guid
 <table>
 <tr>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/specflow-ai.svg" width="100%" alt="SpecFlow AI product poster" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/previews/specflow-ai.png" width="100%" alt="SpecFlow AI website preview" />
 </td>
 <td width="45%" valign="top">
 
@@ -73,7 +73,7 @@ A cancer navigator app built for high-stakes clarity. It is designed around guid
 
 A specification-first workflow for AI-assisted software delivery. It moves from intent to specs, tasks, handovers, and execution so agent work stays organized instead of drifting across chats.
 
-**Role:** workflow design, product system, implementation structure
+**Role:** workflow design, product system, implementation structure<br/>
 **Surface:** public repo and production web app
 
 [![Live Site](https://img.shields.io/badge/Live_Site-22d3ee?style=for-the-badge&logo=vercel&logoColor=06111f)](https://spec-flow-ai.vercel.app)
@@ -91,7 +91,7 @@ A specification-first workflow for AI-assisted software delivery. It moves from 
 
 An AI-native workspace around reusable skills, agent teams, and a distinct product language. It is the project where product architecture, visual identity, and agent orchestration come together most directly.
 
-**Role:** product design, frontend systems, agent workflow UX
+**Role:** product design, frontend systems, agent workflow UX<br/>
 **Surface:** public repo and production web app
 
 [![Live Site](https://img.shields.io/badge/Live_Site-f59e0b?style=for-the-badge&logo=vercel&logoColor=08111f)](https://skills-agency.vercel.app)
@@ -99,7 +99,7 @@ An AI-native workspace around reusable skills, agent teams, and a distinct produ
 
 </td>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/skills-agency.svg" width="100%" alt="Skills Agency poster" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/previews/skills-agency.png" width="100%" alt="Skills Agency website preview" />
 </td>
 </tr>
 </table>
@@ -107,7 +107,7 @@ An AI-native workspace around reusable skills, agent teams, and a distinct produ
 <table>
 <tr>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/token-tracker-dashboard.svg" width="100%" alt="Token Tracker dashboard poster" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/previews/token-tracker.png" width="100%" alt="Token Tracker website preview" />
 </td>
 <td width="45%" valign="top">
 
@@ -115,7 +115,7 @@ An AI-native workspace around reusable skills, agent teams, and a distinct produ
 
 An AI operations dashboard for teams running coding agents. It tracks token usage, provider health, session quality, waste signals, and the practical cost of agent-assisted work.
 
-**Role:** SaaS UX, dashboard architecture, Session Intelligence
+**Role:** SaaS UX, dashboard architecture, Session Intelligence<br/>
 **Surface:** public repo and production web app
 
 [![Live Site](https://img.shields.io/badge/Live_Site-8b5cf6?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://token-tracker-dashboard.vercel.app)

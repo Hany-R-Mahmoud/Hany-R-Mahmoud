@@ -33,7 +33,7 @@ GitHub SVG assets can use system stacks for reliability. README body relies on G
 ## Components
 
 - animated hero SVG
-- project poster SVG per major product where needed
+- production website preview PNG per selected project
 - alternating project tables
 - clear badge actions: Live Site, Public Repo, Contact
 
@@ -42,5 +42,5 @@ GitHub SVG assets can use system stacks for reliability. README body relies on G
 - generic purple-only AI gradient
 - wall of badges before the story
 - many identical card sections
-- fake stats or invented repository links
+- fake stats, invented project framing, or invented repository links
 - long paragraphs that bury the product list
