@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-labelledby="title desc">
+  <title id="title">Yahya poster</title>
+  <desc id="desc">A modern product poster for Yahya, a cancer navigator app.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#120a1f"/>
+      <stop offset="48%" stop-color="#3b1238"/>
+      <stop offset="100%" stop-color="#881337"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fb7185"/>
+      <stop offset="50%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#g)"/>
+  <g opacity="0.18">
+    <path d="M0 120H900M0 230H900M0 340H900M0 450H900" stroke="#ffe4e6"/>
+    <path d="M110 0V520M260 0V520M410 0V520M560 0V520M710 0V520" stroke="#ffe4e6"/>
+  </g>
+  <path d="M120 372C196 250 256 292 326 224C404 146 492 166 556 236C624 312 704 258 788 138" fill="none" stroke="url(#line)" stroke-width="7" opacity="0.72">
+    <animate attributeName="stroke-dashoffset" values="620;0;620" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dasharray" values="80 720;300 520;80 720" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <g transform="translate(68 74)">
+    <text x="0" y="0" fill="#fecdd3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" letter-spacing="3">02 / CARE NAVIGATOR</text>
+    <text x="0" y="82" fill="#fff1f2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="74" font-weight="800">Yahya</text>
+    <text x="0" y="130" fill="#ffe4e6" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="28">A cancer navigator app for reducing confusion across hard health journeys.</text>
+  </g>
+  <g transform="translate(610 252)">
+    <rect x="0" y="0" width="190" height="148" rx="28" fill="#fff1f2" opacity="0.94"/>
+    <circle cx="58" cy="58" r="24" fill="#fb7185"/>
+    <rect x="92" y="42" width="74" height="12" rx="6" fill="#881337" opacity="0.65"/>
+    <rect x="32" y="100" width="128" height="12" rx="6" fill="#be123c" opacity="0.28"/>
+  </g>
+</svg>

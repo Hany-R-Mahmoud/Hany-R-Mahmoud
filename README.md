@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/header.svg" alt="Hany Mahmoud" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/header.svg" alt="Hany Mahmoud - AI product builder" width="100%" />
 </div>
 
 <div align="center">
 
-I build frontend systems for AI-native products — dashboards, agent UIs, mobile apps, and the product layer between raw capability and usable experience.  
-Working as a solo developer augmented by AI agent teams. Based in Egypt. Teaching AI tooling in Arabic for Egyptian developers.
+I build AI-native products across web, mobile, dashboards, agent UIs, and developer workflows.
+My work sits where raw AI capability becomes a product people can understand, trust, and use.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hany-r-mahmoud)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hany.r.mahmoud@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hany-R-Mahmoud&style=for-the-badge&color=22c55e)](https://github.com/Hany-R-Mahmoud)
+[![Vercel](https://img.shields.io/badge/Production_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](#selected-work)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hany-R-Mahmoud&style=for-the-badge&color=22d3ee)](https://github.com/Hany-R-Mahmoud)
 
 </div>
 
@@ -19,89 +20,107 @@ Working as a solo developer augmented by AI agent teams. Based in Egypt. Teachin
 
 ## Selected Work
 
-<!-- ═══════════════════ PROJECT 1 ═══════════════════ -->
 <table>
 <tr>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/skills-agency.svg" width="100%" alt="Skills Agency" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/etamini.svg" width="100%" alt="Etamini product poster" />
 </td>
 <td width="45%" valign="top">
 
-### Skills Agency
-An AI-native Next.js product built around skills, agents, and a distinct product language. Immersive office-style UI where each department is a real functional area.
+### 01. Etamini
 
-The project I want at front because it's the most authored — system-driven, visually intentional, and closest to the kind of work I want to keep doing.
+A trust-focused AI product with a calmer product surface. The design challenge is making intelligent assistance feel clear, reassuring, and action-oriented without overwhelming the user.
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Hany-R-Mahmoud/skills-agency)
-[![Live](https://img.shields.io/badge/Live_Site-22d3ee?style=for-the-badge&logo=vercel&logoColor=0f172a)](https://skills-agency.vercel.app)
+**Role:** product architecture, frontend experience, AI-assisted delivery
+**Surface:** production web app
+
+[![Live Site](https://img.shields.io/badge/Live_Site-34d399?style=for-the-badge&logo=vercel&logoColor=08111f)](https://etamini.vercel.app)
+[![Private Repo](https://img.shields.io/badge/Private_Repo-Live_only-0f172a?style=for-the-badge&logo=github&logoColor=9fb4c9)](https://etamini.vercel.app)
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ PROJECT 2 ═══════════════════ -->
 <table>
 <tr>
 <td width="45%" valign="top">
 
-### Skills Mobile
-The mobile companion to the Skills Agency ecosystem. A React Native + Expo surface that extends the agent-skill UX to mobile, keeping the same product language and visual identity.
+### 02. Yahya
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Hany-R-Mahmoud/skills-mobile)
+A cancer navigator app built for high-stakes clarity. It is designed around guidance, reduced confusion, and a product tone that treats healthcare navigation with care and precision.
+
+**Role:** mobile product thinking, care journey UX, frontend implementation
+**Surface:** production web app
+
+[![Live Site](https://img.shields.io/badge/Live_Site-fb7185?style=for-the-badge&logo=vercel&logoColor=120a1f)](https://yah-ya.vercel.app)
+[![Private Repo](https://img.shields.io/badge/Private_Repo-Live_only-0f172a?style=for-the-badge&logo=github&logoColor=9fb4c9)](https://yah-ya.vercel.app)
 
 </td>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/skills-mobile.svg" width="100%" alt="Skills Mobile" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/yahya.svg" width="100%" alt="Yahya cancer navigator app poster" />
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ PROJECT 3 ═══════════════════ -->
 <table>
 <tr>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/the-agency-game.svg" width="100%" alt="The Agency: Command Ops" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/specflow-ai.svg" width="100%" alt="SpecFlow AI product poster" />
 </td>
 <td width="45%" valign="top">
 
-### The Agency: Command Ops
-A mobile-first strategy game where systems design, progression loops, and worldbuilding come together. It reminds me that I don't only enjoy polished UI — I enjoy building worlds, rules, and experiences with personality.
+### 03. SpecFlow AI
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Hany-R-Mahmoud/the-agency-mobile-game)
+A specification-first workflow for AI-assisted software delivery. It moves from intent to specs, tasks, handovers, and execution so agent work stays organized instead of drifting across chats.
+
+**Role:** workflow design, product system, implementation structure
+**Surface:** public repo and production web app
+
+[![Live Site](https://img.shields.io/badge/Live_Site-22d3ee?style=for-the-badge&logo=vercel&logoColor=06111f)](https://spec-flow-ai.vercel.app)
+[![Public Repo](https://img.shields.io/badge/Public_Repo-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Hany-R-Mahmoud/spec-flow)
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ PROJECT 4 ═══════════════════ -->
 <table>
 <tr>
 <td width="45%" valign="top">
 
-### Token Tracker
-A two-surface AI operations product — web dashboard + mobile app. Monitors token usage, provider health, session quality, and team activity. The deeper value: building it as a proper product system with separate repos, shared identity, and clear operational UX.
+### 04. Skills Agency
 
-[![Dashboard](https://img.shields.io/badge/Dashboard_Repo-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Hany-R-Mahmoud/token-tracker-dashboard)
+An AI-native workspace around reusable skills, agent teams, and a distinct product language. It is the project where product architecture, visual identity, and agent orchestration come together most directly.
+
+**Role:** product design, frontend systems, agent workflow UX
+**Surface:** public repo and production web app
+
+[![Live Site](https://img.shields.io/badge/Live_Site-f59e0b?style=for-the-badge&logo=vercel&logoColor=08111f)](https://skills-agency.vercel.app)
+[![Public Repo](https://img.shields.io/badge/Public_Repo-0f172a?style=for-the-badge&logo=github&logoColor=f59e0b)](https://github.com/Hany-R-Mahmoud/skills-agency)
 
 </td>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/token-tracker-dashboard.svg" width="100%" alt="Token Tracker Dashboard" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/skills-agency.svg" width="100%" alt="Skills Agency poster" />
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ PROJECT 5 ═══════════════════ -->
 <table>
 <tr>
 <td width="55%" valign="top">
-<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/token-tracker-mobile.svg" width="100%" alt="Token Tracker Mobile" />
+<img src="https://raw.githubusercontent.com/Hany-R-Mahmoud/Hany-R-Mahmoud/main/public/posters/token-tracker-dashboard.svg" width="100%" alt="Token Tracker dashboard poster" />
 </td>
 <td width="45%" valign="top">
 
-### Token Tracker Mobile
-The on-the-go surface for Token Tracker — React Native + Expo with real-time AI usage monitoring, session quality alerts, and provider health at a glance.
+### 05. Token Tracker
 
-[![Mobile Repo](https://img.shields.io/badge/Mobile_Repo-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Hany-R-Mahmoud/token-tracker-mobile)
+An AI operations dashboard for teams running coding agents. It tracks token usage, provider health, session quality, waste signals, and the practical cost of agent-assisted work.
+
+**Role:** SaaS UX, dashboard architecture, Session Intelligence
+**Surface:** public repo and production web app
+
+[![Live Site](https://img.shields.io/badge/Live_Site-8b5cf6?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://token-tracker-dashboard.vercel.app)
+[![Dashboard Repo](https://img.shields.io/badge/Dashboard_Repo-0f172a?style=for-the-badge&logo=github&logoColor=8b5cf6)](https://github.com/Hany-R-Mahmoud/token-tracker-dashboard)
+[![Core Repo](https://img.shields.io/badge/Core_Repo-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Hany-R-Mahmoud/token-tracker)
 
 </td>
 </tr>
@@ -109,15 +128,33 @@ The on-the-go surface for Token Tracker — React Native + Expo with real-time A
 
 ---
 
-## What I'm building now
+## What I Am Building Toward
 
-I've been moving hard toward the AI product layer — the space between raw capability and usable experience.
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Token Tracker** is a new SaaS targeting small tech teams that run AI coding agents. The core differentiator is Session Intelligence: efficiency scoring, waste detection, outcome inference. Not just token counting.
+### Product Layer
 
-I also produce **Arabic-language educational content** on AI tooling — Claude, Codex, Cursor — for Egyptian developers on LinkedIn. The goal is making this accessible in the language and cultural context where it actually lands.
+I turn AI capability into product interfaces: dashboards, workflows, mobile surfaces, and agent UIs with enough structure to be used repeatedly.
 
-My stack is TypeScript-first across web and mobile: Next.js + React Native + Expo + Supabase, with Codex and Claude as the primary execution layer.
+</td>
+<td valign="top" width="33%">
+
+### Agent Teams
+
+I work as a solo developer amplified by AI agents, with a focus on specs, handovers, review loops, reusable skills, and visible execution quality.
+
+</td>
+<td valign="top" width="33%">
+
+### Arabic AI Education
+
+I publish Arabic-language AI tooling content for Egyptian developers, especially around Claude, Codex, Cursor, and practical agent workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,41 +162,41 @@ My stack is TypeScript-first across web and mobile: Next.js + React Native + Exp
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,react,expo,tailwind,supabase,docker,vercel,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,expo,tailwind,supabase,docker,vercel,vite,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hany-R-Mahmoud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=f97316&text_color=e2e8f0&bg_color=0f172a" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hany-R-Mahmoud&theme=tokyonight&hide_border=true&layout=compact&title_color=22d3ee&text_color=e2e8f0&bg_color=0f172a" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hany-R-Mahmoud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=f59e0b&text_color=e6f4ff&bg_color=08111f" alt="Hany Mahmoud GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hany-R-Mahmoud&theme=tokyonight&hide_border=true&layout=compact&title_color=22d3ee&text_color=e6f4ff&bg_color=08111f" alt="Hany Mahmoud top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hany-R-Mahmoud&bg_color=0f172a&color=e2e8f0&line=22d3ee&point=f97316&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hany-R-Mahmoud&bg_color=08111f&color=e6f4ff&line=22d3ee&point=f59e0b&area=true&hide_border=true" width="100%" alt="Hany Mahmoud GitHub activity graph" />
 </div>
 
 ---
 
-## Open to
+## Open To
 
-- creative-tech product collaborations
-- frontend systems for AI tools, dashboards, and agent UIs
-- product UI work with stronger atmosphere and clearer structure
-- ambitious experiments that mix engineering, interaction, and storytelling
+- AI product collaborations where frontend quality matters
+- dashboards, agent UIs, and workflow tools
+- React Native and Expo product surfaces
 - Arabic-speaking teams building with AI
+- projects that need design taste, product structure, and execution speed together
 
 <br/>
 
 <div align="center">
 
-> I build in public, learn visibly, and make each project more intentional than the last.
+**I build in public, learn visibly, and keep making each project more intentional than the last.**
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hany.r.mahmoud@gmail.com)
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hany.r.mahmoud@gmail.com)
 
 </div>
